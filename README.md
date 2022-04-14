@@ -1,8 +1,10 @@
-# RefikKajic
+# Refik Kajic
 
 ## Welcome to my page
+![image](https://user-images.githubusercontent.com/101147563/163469678-5fa30e71-00b3-4610-8a36-90fa25b97226.png)
 
 ## Columbia College Chicago
+Sophomore Years in Programming I
 
 ## Adopting Robot
 ![image](https://user-images.githubusercontent.com/101147563/163468044-e8751a38-5bd3-4a84-bcc5-7f89e1a66f4e.png)
